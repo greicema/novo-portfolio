@@ -1,5 +1,5 @@
 body {
-    font-family: 'Spectral', serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .menu {
@@ -25,6 +25,18 @@ body {
     border: 4px solid rgb(187, 115, 253);
     position: relative;
     border-radius: 100%;
+}
+
+.social {
+    list-style: none;
+}
+
+.social li {
+    display: inline-block;
+}
+
+.social i {
+    color: black;
 }
 
 
