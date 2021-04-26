@@ -1,0 +1,24 @@
+Redes sociais: github (ou o porfólio né): https://github.com/greicemsj; linkdin: https://www.linkedin.com/in/greicemara/; flickr
+Minha foto: https://i.ibb.co/J5dcdNq/curriculo.jpg
+Logo Apub: https://pbs.twimg.com/profile_images/864536446748598272/TzcRE4PQ.jpg
+Logo Sead: https://pbs.twimg.com/profile_images/1164537142967750657/hwvOHAnH.jpg
+Logo Agenda: https://pbs.twimg.com/profile_images/1310634254095863809/eV1T-62o_400x400.jpg
+Logo UFBA: https://ufba.br/sites/portal.ufba.br/files/noticias/brasao_ufba_-_copia.jpg
+Pegar links dos trabalhos diretamente do código original
+
+-> Pensar em colocar os exemplos juntos com cada experiência
+-> Apurar se a ordem dos elementos deve se manter ou não  
+-> Será que é necessária a parte de contato?
+-> Definir se o nav bar vai sumir quando a resolução reduzir ou não
+-> Formatação e conteúdo dos elementos
+
+-> Pesquisar sobre soft skills
+
+Organizando melhor
+Head -> favicon (meu triângulo); configurar fonte (?); 
+Home -> Decidir o conteúdo a ser colocado (se for colocar); decidir cor
+Biography -> ajeitar texto de apresentação; acrescentar ícones das redes sociais e cada link 
+Topics -> Espaçamento entre um bloco e outro (principalmente bottom); cores; formatação: espaçamento das habilidades, barra; mudar classes para ingles 
+Experiences -> cores ; alinhamento (centralizar); corrigir o fato de qualquer local do box ao ser clicado direcionar para a materia
+Education -> cores; deixar box um pouco mais fino; centralizar as formações principais 
+Contact -> decidir se vai ou não; conteúdo; formatação geral; cores
