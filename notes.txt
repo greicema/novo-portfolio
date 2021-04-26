@@ -1,4 +1,4 @@
-Redes sociais: github (ou o porfólio né): https://github.com/greicemsj; linkdin: https://www.linkedin.com/in/greicemara/; flickr
+Redes sociais: github (ou o porfólio né): https://github.com/greicemsj; linkedin: https://www.linkedin.com/in/greicemara/; flickr https://www.flickr.com/people/191165015@N06/
 Minha foto: https://i.ibb.co/J5dcdNq/curriculo.jpg
 Logo Apub: https://pbs.twimg.com/profile_images/864536446748598272/TzcRE4PQ.jpg
 Logo Sead: https://pbs.twimg.com/profile_images/1164537142967750657/hwvOHAnH.jpg
@@ -17,8 +17,8 @@ Pegar links dos trabalhos diretamente do código original
 Organizando melhor
 Head -> favicon (meu triângulo); configurar fonte (?); 
 Home -> Decidir o conteúdo a ser colocado (se for colocar); decidir cor
-Biography -> ajeitar texto de apresentação; acrescentar ícones das redes sociais e cada link 
+Biography -> ajeitar texto de apresentação; ajustar posicionamento dos icones das redes sociais 
 Topics -> Espaçamento entre um bloco e outro (principalmente bottom); cores; formatação: espaçamento das habilidades, barra; mudar classes para ingles 
 Experiences -> cores ; alinhamento (centralizar); corrigir o fato de qualquer local do box ao ser clicado direcionar para a materia
-Education -> cores; deixar box um pouco mais fino; centralizar as formações principais 
-Contact -> decidir se vai ou não; conteúdo; formatação geral; cores
+Education -> cores; deixar box um pouco mais fino 
+Contact -> decidir se vai ou não; cores
