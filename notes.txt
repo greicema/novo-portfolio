@@ -17,7 +17,7 @@ Pegar links dos trabalhos diretamente do código original
 
 Organizando melhor
 Head -> favicon (meu triângulo); colapsar a header direito
-Home -> incluir seta para a parte de baixo
+Home -> incluir seta para a parte de baixo; tamanho da imagem (photoshop)
 Biography -> ajeitar texto de apresentação
 Topics -> cores; estilizar barra 
 Experiences -> cores; estilização de texto 
