@@ -1,14 +1,17 @@
-body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
 .menu {
     align-items: center;
-    border-radius: 8px;
+    background-color: #223333;
+    color: white;
 }
 
-.menu li {
+.menu li a {
     cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+
+.menu li a:hover {
+    transform: scale(1.1);
 }
 
 #home {
@@ -114,9 +117,14 @@ body {
     opacity: 0.2;
 }
 
+#job-link:hover {
+    color: rgb(200, 146, 250);
+}
+
 .footer {
     position: absolute;
     width: 100%;
-    background-color: gold;
+    background-color: #223333;
     text-align: center;
+    color: white;
 }
