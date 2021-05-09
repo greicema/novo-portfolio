@@ -4,6 +4,7 @@ Logo Apub: https://pbs.twimg.com/profile_images/864536446748598272/TzcRE4PQ.jpg
 Logo Sead: https://pbs.twimg.com/profile_images/1164537142967750657/hwvOHAnH.jpg
 Logo Agenda: https://pbs.twimg.com/profile_images/1310634254095863809/eV1T-62o_400x400.jpg
 Logo UFBA: https://ufba.br/sites/portal.ufba.br/files/noticias/brasao_ufba_-_copia.jpg
+Máquina de escrever: https://ibb.co/qD8X3pP
 Pegar links dos trabalhos diretamente do código original
 
 -> Pensar em colocar os exemplos juntos com cada experiência
@@ -15,10 +16,10 @@ Pegar links dos trabalhos diretamente do código original
 -> Pesquisar sobre soft skills
 
 Organizando melhor
-Head -> favicon (meu triângulo); configurar fonte (?); 
-Home -> Decidir o conteúdo a ser colocado (se for colocar); decidir cor
-Biography -> ajeitar texto de apresentação; ajustar posicionamento dos icones das redes sociais 
-Topics -> Espaçamento entre um bloco e outro (principalmente bottom); cores; formatação: espaçamento das habilidades, barra; mudar classes para ingles 
-Experiences -> cores ; alinhamento (centralizar); corrigir o fato de qualquer local do box ao ser clicado direcionar para a materia
-Education -> cores; deixar box um pouco mais fino 
-Contact -> decidir se vai ou não; cores
+Head -> favicon (meu triângulo); colapsar a header direito
+Home -> incluir seta para a parte de baixo
+Biography -> ajeitar texto de apresentação
+Topics -> cores; estilizar barra 
+Experiences -> cores; estilização de texto 
+Education -> cores; deixar box um pouco mais fino (?) tentar lembrar o que isso significa
+Contact -> cores (provavelmente deixar como está)
