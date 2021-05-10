@@ -16,10 +16,10 @@ Pegar links dos trabalhos diretamente do código original
 -> Pesquisar sobre soft skills
 
 Organizando melhor
-Head -> favicon (meu triângulo); colapsar a header direito
-Home -> incluir seta para a parte de baixo; tamanho da imagem (photoshop)
+Header -> 
+Home -> incluir seta para a parte de baixo; tamanho da imagem no tablet
 Biography -> ajeitar texto de apresentação
-Topics -> cores; estilizar barra 
+Topics -> cor da barra; tentar estilizar mais 
 Experiences -> cores; estilização de texto 
 Education -> cores; deixar box um pouco mais fino (?) tentar lembrar o que isso significa
 Contact -> cores (provavelmente deixar como está)
