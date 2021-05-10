@@ -4,6 +4,13 @@ h5 {
     font-weight: bold;
 }
 
+.menu .logo {
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+}
+
 .menu {
     align-items: center;
     background-color: #223333;
