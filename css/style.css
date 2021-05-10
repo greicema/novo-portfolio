@@ -33,7 +33,6 @@ h5 {
     align-items: center;
     justify-content: center;
     display: flex;
-    margin-bottom: 24px;
     background-image: url(/img/maquina-escrever.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -42,6 +41,13 @@ h5 {
 #home h2 {
     color: white;
     text-decoration: underline;
+}
+
+#biography,
+#skills,
+#experiences,
+#education {
+    padding-top: 60px;
 }
 
 .picture {
