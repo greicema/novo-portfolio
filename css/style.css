@@ -109,13 +109,19 @@ h5 {
     display: inline;
 }*/
 
+
+/*.adobe {
+    position: relative;
+    display: inline;
+}*/
+
 .topics h2 {
     text-align: center;
     padding: 24px;
 }
 
 .skill {
-    background-color: rgb(172, 120, 120);
+    background-color: rgba(175, 175, 175, 0.253);
     border-radius: 16px;
     margin: 12px;
     padding: 0;
@@ -136,23 +142,16 @@ h5 {
     margin-bottom: 4px;
 }
 
-
-/*.adobe {
-    position: relative;
-    display: inline;
-}*/
-
 .progress {
     width: 100%;
     display: flex;
     margin-bottom: 16px;
+    border: 1px solid black;
 }
 
 .bar {
     width: 20%;
-    height: 4px;
-    margin-top: 8px;
-    margin-bottom: 10px;
+    height: 16px;
     background-color: blue;
 }
 
