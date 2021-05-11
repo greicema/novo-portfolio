@@ -164,6 +164,10 @@ h5 {
     padding: 0;
 }
 
+.change-color {
+    color: rgba(128, 128, 128, 0.815);
+}
+
 #job-link:hover {
     color: rgb(200, 146, 250);
 }
