@@ -7,19 +7,15 @@ Logo UFBA: https://ufba.br/sites/portal.ufba.br/files/noticias/brasao_ufba_-_cop
 Máquina de escrever: https://ibb.co/qD8X3pP
 Pegar links dos trabalhos diretamente do código original
 
--> Pensar em colocar os exemplos juntos com cada experiência
--> Apurar se a ordem dos elementos deve se manter ou não  
--> Será que é necessária a parte de contato?
--> Definir se o nav bar vai sumir quando a resolução reduzir ou não
 -> Formatação e conteúdo dos elementos
 
 -> Pesquisar sobre soft skills
 
 Organizando melhor
 Header -> 
-Home -> incluir seta para a parte de baixo; tamanho da imagem no tablet
+Home -> cor do arrow; tamanho da imagem no tablet
 Biography -> ajeitar texto de apresentação
-Topics -> cor da barra; tentar estilizar mais 
-Experiences -> cores; estilização de texto 
-Education -> cores; deixar box um pouco mais fino (?) tentar lembrar o que isso significa
-Contact -> cores (provavelmente deixar como está)
+Topics -> cor da barra; ajustar nível das habilidades 
+Experiences -> estilização do link; acrescentar principais trabalhos realizados
+Education -> 
+Contact -> estilização do link
