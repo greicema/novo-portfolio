@@ -25,7 +25,6 @@ h5 {
 
 .menu li a:hover {
     transform: scale(1.1);
-    border-bottom: 2px solid white;
 }
 
 #home {
@@ -41,6 +40,14 @@ h5 {
 #home h2 {
     color: white;
     text-decoration: underline;
+}
+
+#arrow {
+    color: white;
+}
+
+#arrow:hover {
+    color: black;
 }
 
 #biography,
@@ -146,17 +153,15 @@ h5 {
     width: 100%;
     display: flex;
     margin-bottom: 16px;
-    border: 1px solid black;
+    border: 2px solid black;
 }
 
 .bar {
     width: 20%;
-    height: 16px;
+    height: 14px;
     background-color: blue;
-}
-
-.no-bar {
-    opacity: 0.2;
+    margin: 0;
+    padding: 0;
 }
 
 #job-link:hover {
