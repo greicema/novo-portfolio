@@ -13,9 +13,9 @@ Pegar links dos trabalhos diretamente do código original
 
 Organizando melhor
 Header -> 
-Home -> cor do arrow; tamanho da imagem no tablet
+Home -> tamanho da imagem no tablet
 Biography -> ajeitar texto de apresentação
-Topics -> cor da barra; ajustar nível das habilidades 
-Experiences -> estilização do link; acrescentar principais trabalhos realizados
+Topics -> 
+Experiences -> estilização do link; ajeitar exibição dos principais trabalhos realizados; estudar exibição de vídeos em html
 Education -> 
-Contact -> estilização do link
+Contact -> 
