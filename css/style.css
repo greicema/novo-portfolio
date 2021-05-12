@@ -14,17 +14,41 @@ h5 {
 .menu {
     align-items: center;
     background-color: #223333;
-    color: white;
+    color: #EEEEEE;
 }
 
 .menu li a {
     cursor: pointer;
     text-decoration: none;
-    color: white;
+    color: #EEEEEE;
 }
 
 .menu li a:hover {
     transform: scale(1.1);
+}
+
+.borderLeftRight {
+    display: inline-block;
+    position: relative;
+    color: hsl(222, 25%, 14%);
+}
+
+.borderLeftRight::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #85C3FF;
+    transform-origin: bottom right;
+    transition: transform 0.3s cubic-bezier(0.86, 0, 0.07, 1);
+}
+
+.borderLeftRight:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
 }
 
 #home {
@@ -38,16 +62,16 @@ h5 {
 }
 
 #home h2 {
-    color: white;
+    color: #EEEEEE;
     text-decoration: underline;
 }
 
 #arrow {
-    color: white;
+    color: #FFFFFF;
 }
 
 #arrow:hover {
-    color: black;
+    color: #a7a7a7;
 }
 
 #biography,
@@ -83,7 +107,7 @@ h5 {
 
 /*.dropside {
     background-color: #14004d;
-    color: white;
+    color: #EEEEEE;
     padding: 16px;
     font-size: 16px;
     width: 288px;
@@ -159,7 +183,7 @@ h5 {
 .bar {
     width: 20%;
     height: 14px;
-    background-color: blue;
+    background-color: #0085FF;
     margin: 0;
     padding: 0;
 }
@@ -177,5 +201,5 @@ h5 {
     width: 100%;
     background-color: #223333;
     text-align: center;
-    color: white;
+    color: #EEEEEE;
 }
