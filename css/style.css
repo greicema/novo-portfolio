@@ -192,13 +192,6 @@ h5 {
     color: rgba(128, 128, 128, 0.815);
 }
 
-.job-cover {
-    display: block;
-    width: 100%;
-    height: 100%;
-    border-radius: 6px;
-}
-
 #a-link {
     text-decoration: none;
 }
@@ -215,3 +208,6 @@ h5 {
     text-align: center;
     color: #EEEEEE;
 }
+
+
+/*TESTES*/
