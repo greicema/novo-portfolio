@@ -16,6 +16,6 @@ Header ->
 Home -> tamanho da imagem no tablet
 Biography -> ajeitar texto de apresentação
 Topics -> 
-Experiences -> estilização do link; ajeitar exibição dos principais trabalhos realizados; estudar exibição de vídeos em html
+Experiences -> ajustar tamanho das imagens e padronizar (ajustar imagens no photoshop fodase); centralizar elementos de exibição; estudar exibição de vídeos em html; ajustar tamanho do bloco cai de boca de acordo com o restante das imagens ajustadas no photoshop
 Education -> 
 Contact -> 
