@@ -17,9 +17,9 @@ Azunha: https://i.ibb.co/4SkbtYy/azunha.png
 
 Organizando melhor
 Header -> 
-Home -> tamanho da imagem no tablet
+Home -> 
 Biography -> ajeitar texto de apresentação
 Topics -> 
-Experiences -> centralizar elementos de exibição; estudar exibição de vídeos em html; ajustar tamanho do bloco cai de boca de acordo com o restante das imagens ajustadas no photoshop
+Experiences -> centralizar elementos de exibição; vídeos não ficam ajustados quando lado a lado???
 Education -> 
 Contact -> 
