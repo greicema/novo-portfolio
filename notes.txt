@@ -7,6 +7,10 @@ Logo UFBA: https://ufba.br/sites/portal.ufba.br/files/noticias/brasao_ufba_-_cop
 Máquina de escrever: https://ibb.co/qD8X3pP
 Pegar links dos trabalhos diretamente do código original
 
+Matéria ifba: http://apub.org.br/wp-content/uploads/2020/01/IMG_0171-1024x683.jpg
+Matéria garcia: http://apub.org.br/wp-content/uploads/2020/02/IMG_1184.jpg
+Azunha: https://i.ibb.co/4SkbtYy/azunha.png
+
 -> Formatação e conteúdo dos elementos
 
 -> Pesquisar sobre soft skills
@@ -16,6 +20,6 @@ Header ->
 Home -> tamanho da imagem no tablet
 Biography -> ajeitar texto de apresentação
 Topics -> 
-Experiences -> ajustar tamanho das imagens e padronizar (ajustar imagens no photoshop fodase); centralizar elementos de exibição; estudar exibição de vídeos em html; ajustar tamanho do bloco cai de boca de acordo com o restante das imagens ajustadas no photoshop
+Experiences -> centralizar elementos de exibição; estudar exibição de vídeos em html; ajustar tamanho do bloco cai de boca de acordo com o restante das imagens ajustadas no photoshop
 Education -> 
 Contact -> 
