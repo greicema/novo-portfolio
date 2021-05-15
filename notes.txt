@@ -23,3 +23,14 @@ Topics ->
 Experiences -> centralizar elementos de exibição; vídeos não ficam ajustados quando lado a lado???
 Education -> 
 Contact -> 
+
+Observações em teste de deploy 
+Favicon não aparece
+Header -> não ocultou no tablet/não ficou lado a lado
+Home -> 
+Biography -> imagem da biografia não apareceu
+Topics -> 
+Experiences -> exibição não está centralizada (problema já conhecido); bloco do vídeo fica estranho, mas o play é ok 
+Education -> formação complementar não está centralizada
+Contact -> 
+
