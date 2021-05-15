@@ -28,7 +28,7 @@ Observações em teste de deploy
 Favicon não aparece
 Header -> não ocultou no tablet/não ficou lado a lado
 Home -> 
-Biography -> imagem da biografia não apareceu
+Biography -> imagem da biografia não apareceu (aparece no pc??)
 Topics -> 
 Experiences -> exibição não está centralizada (problema já conhecido); bloco do vídeo fica estranho, mas o play é ok 
 Education -> formação complementar não está centralizada
