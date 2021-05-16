@@ -5,32 +5,27 @@ Logo Sead: https://pbs.twimg.com/profile_images/1164537142967750657/hwvOHAnH.jpg
 Logo Agenda: https://pbs.twimg.com/profile_images/1310634254095863809/eV1T-62o_400x400.jpg
 Logo UFBA: https://ufba.br/sites/portal.ufba.br/files/noticias/brasao_ufba_-_copia.jpg
 Máquina de escrever: https://ibb.co/qD8X3pP
-Pegar links dos trabalhos diretamente do código original
 
 Matéria ifba: http://apub.org.br/wp-content/uploads/2020/01/IMG_0171-1024x683.jpg
 Matéria garcia: http://apub.org.br/wp-content/uploads/2020/02/IMG_1184.jpg
 Azunha: https://i.ibb.co/4SkbtYy/azunha.png
 
--> Formatação e conteúdo dos elementos
-
--> Pesquisar sobre soft skills
-
 Organizando melhor
 Header -> 
 Home -> 
-Biography -> ajeitar texto de apresentação
+Biography -> 
 Topics -> 
-Experiences -> centralizar elementos de exibição; vídeos não ficam ajustados quando lado a lado???
+Experiences -> 
 Education -> 
 Contact -> 
 
 Observações em teste de deploy 
 Favicon não aparece
-Header -> não ocultou no tablet/não ficou lado a lado
+Header -> 
 Home -> 
-Biography -> imagem da biografia não apareceu (aparece no pc??)
+Biography -> 
 Topics -> 
-Experiences -> exibição não está centralizada (problema já conhecido); bloco do vídeo fica estranho, mas o play é ok 
-Education -> formação complementar não está centralizada
+Experiences -> bloco do vídeo fica estranho, mas o play é ok 
+Education -> 
 Contact -> 
 
