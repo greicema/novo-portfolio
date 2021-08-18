@@ -10,9 +10,8 @@ Matéria ifba: http://apub.org.br/wp-content/uploads/2020/01/IMG_0171-1024x683.j
 Matéria garcia: http://apub.org.br/wp-content/uploads/2020/02/IMG_1184.jpg
 Azunha: https://i.ibb.co/4SkbtYy/azunha.png
 
--> Atualizar extensão de imagens
 -> Atualizar habilidades 
--> Atualizar biografia
+
 
 Organizando melhor
 Header -> 
@@ -20,7 +19,7 @@ Home ->
 Biography -> 
 Topics -> 
 Experiences -> 
-Education -> ajustar exibição dos cursos de formação complementar
+Education -> 
 Contact -> 
 
 Observações em teste de deploy 
